@@ -1,0 +1,14 @@
+@media screen and (max-width: 676px) {
+    .header-section {
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 50px;
+    }
+
+    .items-container {
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 50px;
+        gap: 20px;
+    }
+}
