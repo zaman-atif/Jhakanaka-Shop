@@ -11,4 +11,19 @@
         margin-left: 50px;
         gap: 20px;
     }
+    .banner-section{
+        flex-direction: column;
+        margin-top: 40px;
+        gap: 15px;
+        order: 2;
+    }
+    .text-container , .banner-image-container{
+        width: 100%;
+    }
+    .text-container{
+        order: 2;
+    }
+    .banner-image-container{
+        order: 1;
+    }
 }
