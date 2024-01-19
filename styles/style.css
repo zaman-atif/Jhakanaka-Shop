@@ -215,3 +215,15 @@ span {
     border-radius: 20px;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
+/* Footer part  */
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #9376e0;
+    margin-top: 30px;
+
+}
+footer img{
+    width: 90px;
+}
